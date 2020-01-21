@@ -1,0 +1,16 @@
+.heading{
+    font-size: 50px;
+    color: #774499;
+}
+p{
+    font-size: 10px;
+    color: #666666;
+    background-color: blue;
+}
+body{
+    background-color: aliceblue;
+}
+#nice{
+    font-size: 30px;
+    color: aqua; 
+}
